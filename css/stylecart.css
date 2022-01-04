@@ -1,0 +1,30 @@
+body {
+    background-color: #dbdbdb;
+    background-size: cover;
+    font-family: sans-serif;
+    background-repeat:no-repeat;
+    font-size: 14px;
+}
+
+/*Navbar*/
+.form-control{
+    font-size: 14px;
+}
+
+/*Akhir Navbar*/
+
+.row-produk {
+    background-color: white;
+    margin: 0;
+    padding: 5px;
+    padding-top: 16px;
+}
+
+.img-cart {
+    width: 50px;
+}
+.th-header {
+    padding-top: 20px !important;
+    padding-bottom:20px !important;
+}
+

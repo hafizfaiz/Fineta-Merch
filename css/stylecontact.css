@@ -1,0 +1,52 @@
+body {
+    background-color: #dbdbdb;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+.navbar {
+    position: top;
+}
+.form-container {
+    position: absolute;
+    top: 15%;
+    margin-left: 98px;
+    margin-right: auto;
+    padding: 30px 110px;
+    box-shadow: 3px 3px 10px 0px #000;
+    border-radius: 15px;
+    width: 152vh;
+    height: 75vh;
+    background-color: white;
+}
+
+.textjudul{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.textform{
+    font-size: 14px;
+    color: #2d2d2d;
+}
+
+.text-hover {
+    text-decoration: none;
+}
+
+.text-hover:hover {
+    text-decoration: none;
+    color: #2d2d2d;
+    font-weight: 500;
+}
+
+.btn {
+    border-radius: 10px;
+}
+
+.form-control {
+    border-radius: 10px;
+}
+
+.input-group-text {
+    border-radius: 10px;
+}

@@ -1,0 +1,38 @@
+body {
+    background-color: #dbdbdb;
+    background-size: cover;
+    font-family: sans-serif;
+    background-repeat:no-repeat;
+    font-size: 14px;
+}
+
+/*Navbar*/
+.form-control{
+    font-size: 14px;
+}
+
+/*Akhir Navbar*/
+
+/*Gambar produk*/
+.row-produk {
+    background-color: white;
+    margin: 0;
+    padding: 5px;
+    padding-top: 16px;
+}
+/*Akhir gambar produk*/
+
+/*garis nama*/
+.garis-nama {
+    border-bottom:  2px solid #fff;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+/*akhir garis nama*/
+
+/*button keranjang dan beli*/
+.btn-custom {
+   padding: 10px; 
+   font-size: 14px;
+}
+/*akhir button keranjang dan beli*/

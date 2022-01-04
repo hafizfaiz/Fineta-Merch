@@ -1,0 +1,12 @@
+@media screen and (max-width: 1210px){
+    .carousel-control-prev {
+        position: absolute;
+        height: 10%;
+        margin-top: 80px;
+    }
+    .carousel-control-next {
+        position: absolute;
+        height: 10%;
+        margin-top: 80px;
+    }
+}

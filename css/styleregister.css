@@ -1,0 +1,37 @@
+body {
+    background-color: #dbdbdb;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+.form-container {
+    position: absolute;
+    top: 15%;
+    margin-left: 98px;
+    margin-right: auto;
+    transform: translate (-50%, -50%);
+    padding: 30px 110px;
+    box-shadow: 3px 3px 10px 0px #000;
+    border-radius: 15px;
+    width: 152vh;
+    height: 75vh;
+    background-color: white;
+}
+.title-name {
+    font-weight: bold;
+    font-size: 30px;
+}
+.form-control, .input-group-text, .btn {
+    font-size: 14px;
+    border-radius: 10px;
+}
+.text-link {
+    text-decoration: none;
+    color: black;
+}
+.text-link:hover {
+    color: rgb(0, 47, 255);
+}
+.text-color {
+    color: rgb(253, 51, 0);
+    font-weight: bold;
+}

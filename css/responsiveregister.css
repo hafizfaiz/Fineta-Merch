@@ -1,0 +1,30 @@
+@media screen and (max-width: 1210px){
+    .form-container {
+        position: relative;
+        background-repeat: no-repeat;
+        margin-top: 100px;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 30px 30px;
+        border-radius: 15px;
+        width: 45vh;
+        height: 70vh;
+    }
+    .title-name {
+        font-weight: bold;
+        font-size: 13px;
+    }
+    .form-control, .input-group-text, .btn {
+        font-size: 7px;
+        border-radius: 10px;
+    }
+    .form-check-label {
+        font-size: 6px;
+    }
+    .form-label {
+        font-size: 9px;
+    }
+    .mt-2 {
+        font-size: 7px;
+    }
+}
